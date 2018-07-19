@@ -5,11 +5,27 @@ img {
    content: right;
 }
 
+h1 {
+   text-align: left;
+   font-size: 1.5rem;
+   padding-left: 30px;
+   padding-bottom: 10px;
+   font-family: 'Karla', sans-serif;
+}
+
+h2 {
+   text-align: left;
+   padding-left: 40px;
+   padding-bottom: 10px;
+   font-family: 'Karla', sans-serif;
+}
+
 p {
    text-align: left;
    padding: 50px;
    width: 40%;
    line-height: 1.3;
+   font-family: 'Karla', sans-serif;
 }
 
 nav ul {
