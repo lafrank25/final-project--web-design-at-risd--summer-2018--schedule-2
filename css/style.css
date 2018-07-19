@@ -3,12 +3,20 @@
    margin: 0;
 }
 
+.header {
+   position: absolute;
+   width: 100%;
+   height: 150px;
+   background-color: white;
+   top: 0%;
+}
+
 #header {
    font-size: 10rem;
    font-family: 'Karla', sans-serif;
    font-weight: 700;
-   padding-top: 100px;
-   padding-bottom: 300px;
+   padding-top: 70px;
+   padding-bottom: 320px;
    background-color: #FFE3DB;
    width: 100%;
 }
@@ -24,6 +32,7 @@ h1:nth-of-type(2) {
 }
 
 nav ul {
+   background-color: white;
    list-style: none;
    text-align: center;
    font-size: 2rem;
@@ -44,6 +53,7 @@ nav ul li a {
 }
 
 a:active {
+   color: black;
    text-decoration: underline;
 }
 
@@ -56,34 +66,7 @@ a:hover {
    text-decoration: underline;
 }
 
-/* .navbar {
-   overflow: hidden;
-   color: #f2f2f2;
-   font-family: 'Karla', sans-serif;
-   font-size: 2rem;
-   position: fixed;
-   bottom: 0;
-   width: 100%;
-}
-
-.navbar a {
-  float: left;
-  color: black;
-  align-content: center;
-  padding: 14px 50px;
-  text-decoration: none;
-  padding: 33px;
-} */
-
-.header {
-   position:absolute;
-   width: 100%;
-   height: 150px;
-   background-color: white;
-   top: 0%;
-}
-
-/* .footer{
+/* .footer {
    position: fixed;
    width: 100%;
    height: 50px;
