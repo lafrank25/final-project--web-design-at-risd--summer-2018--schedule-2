@@ -83,3 +83,7 @@ footer {
    bottom: 0;
    width: 100vw;
 }
+
+.last-item {
+   padding-bottom: 100px;
+}

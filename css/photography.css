@@ -27,7 +27,7 @@ img {
    margin-left: auto;
    padding-top: 10px;
    padding-right: 50px;
-   width: 40%;
+   width: 35%;
 }
 
 nav ul {
@@ -72,4 +72,8 @@ footer {
    position: fixed;
    bottom: 0;
    width: 100vw;
+}
+
+.last-item {
+   padding-bottom: 100px;
 }
