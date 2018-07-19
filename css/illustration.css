@@ -27,7 +27,7 @@ img {
    margin-left: auto;
    padding-top: 10px;
    padding-right: 50px;
-   width: 55%;
+   width: 40%;
 }
 
 nav ul {
@@ -72,4 +72,4 @@ footer {
    position: fixed;
    bottom: 0;
    width: 100vw;
-]
+}
