@@ -1,8 +1,15 @@
+img {
+   border-radius: 50%;
+   width: 280px;
+   padding: 50px;
+   content: center;
+}
+
 nav ul {
    background-color: white;
    list-style: none;
    text-align: center;
-   font-size: 2rem;
+   font-size: 1.5rem;
 }
 
 nav ul li {
