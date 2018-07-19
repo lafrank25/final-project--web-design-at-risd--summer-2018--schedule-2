@@ -1,6 +1,9 @@
+header {
+   position: absolute;
+}
+
 h1 {
    display: block;
-   position: absolute;
    margin-right: auto;
    width: 40%;
    text-align: left;
@@ -12,7 +15,6 @@ h1 {
 }
 
 p {
-   position: absolute;
    text-align: left;
    padding: 50px;
    width: 30%;
