@@ -3,6 +3,10 @@
    margin: 0;
 }
 
+h1 span {
+   display: inline-block;
+}
+
 .header {
    position: absolute;
    width: 100%;
