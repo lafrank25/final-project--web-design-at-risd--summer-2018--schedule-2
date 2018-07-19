@@ -3,8 +3,48 @@
    margin: 0;
 }
 
-body > h1 {
+#header {
    font-size: 10rem;
-   font-family: 'Josefin Sans', sans-serif;
+   font-family: 'Karla', sans-serif;
    font-weight: 700;
+   padding-top: 100px;
+   padding-left: 20px;
+   padding-right: 30px;
+   padding-bottom: 300px;
+   background-color: #FFE3DB;
 }
+
+h1:nth-of-type(1) {
+   text-align: left;
+}
+
+h1:nth-of-type(2) {
+   width: 100%;
+   text-align: right;
+}
+
+.navbar {
+   overflow: hidden;
+   color: #f2f2f2;
+   font-family: 'Karla', sans-serif;
+   font-size: 2rem;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}
+
+.header {
+   position:absolute;
+   width: 100%;
+   height: 150px;
+   background-color: white;
+   top: 0%;
+}
+
+/* .footer{
+   position: fixed;
+   width: 100%;
+   height: 50px;
+   background-color: white;
+   bottom: 0%;
+} */
