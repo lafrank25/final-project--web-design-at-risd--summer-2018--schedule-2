@@ -2,7 +2,8 @@ img {
    border-radius: 50%;
    width: 280px;
    padding: 50px;
-   content: right;
+   display: block;
+   margin-left: auto;
 }
 
 h1 {
@@ -33,6 +34,9 @@ nav ul {
    list-style: none;
    text-align: center;
    font-size: 1.5rem;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
 }
 
 nav ul li {
@@ -47,6 +51,7 @@ nav ul li a {
    padding-left: 60px;
    padding-right: 60px;
    font-family: 'Karla', sans-serif;
+   padding-bottom: 20px;
 }
 
 a:active {
@@ -70,3 +75,12 @@ a:hover {
    background-color: white;
    top: 0%;
 }
+
+/*
+
+h1 span {
+   display: inline-block;
+}
+
+<h1>Lauren <span>Frank</span></h1>
+*/
