@@ -4,8 +4,8 @@ h1 {
    width: 40%;
    text-align: left;
    font-size: 2.5rem;
-   padding-left: 50px;
    padding-top: 50px;
+   padding-left: 50px;
    padding-bottom: 10px;
    font-family: 'Karla', sans-serif;
 }
@@ -18,15 +18,20 @@ p {
    font-family: 'Lato', sans-serif;
 }
 
-#first {
-   margin-left: 48%
-}
 
 .card img {
    display: block;
    content: center;
    padding: 10px;
    width: 45%;
+}
+
+#container {
+   margin: auto;
+}
+
+#first {
+   visibility: hidden;
 }
 
 nav ul {

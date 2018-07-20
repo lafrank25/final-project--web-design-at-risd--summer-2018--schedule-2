@@ -9,14 +9,14 @@ body {
 }
 
 header {
-   height: 120px;
+   height: 130px;
    background-color: white;
 }
 
 header h1 {
    position: absolute;
    top: 40px;
-   font-size: 10rem;
+   font-size: 11.5rem;
    text-transform: uppercase;
    padding-left: 60px;
    font-family: 'Karla', sans-serif;

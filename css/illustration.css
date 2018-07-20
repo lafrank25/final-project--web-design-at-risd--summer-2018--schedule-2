@@ -25,6 +25,10 @@ p {
    width: 45%;
 }
 
+#first {
+   visibility: hidden;
+}
+
 nav ul {
    padding: 20px 0 4px;
    background-color: #FFE3DB;
@@ -72,7 +76,7 @@ footer {
 }
 
 .last-item {
-   padding-bottom: 80px;
+   padding-bottom: 100px;
 }
 
 @media (max-width: 1500px) {
