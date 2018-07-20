@@ -96,7 +96,7 @@ footer {
    width: 100vw;
 }
 
-@media (max-width: 880px){
+@media (max-width: 800px){
    footer {
       /* height: 30vh; */
       bottom:0px;
@@ -110,7 +110,7 @@ footer {
    }
 }
 
-@media (max-width: 880px){
+@media (max-width: 800px){
    header h1 {
       position: relative;
       top: 75px;

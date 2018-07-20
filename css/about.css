@@ -101,13 +101,13 @@ footer {
    padding-bottom: 80px;
 }
 
-@media (max-width: 880px) {
+@media (max-width: 800px) {
   .card img {
     width: 50%;
   }
 }
 
-@media (max-width: 880px){
+@media (max-width: 800px){
    footer {
       /* height: 30vh; */
       bottom:0px;
