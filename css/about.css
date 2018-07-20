@@ -13,6 +13,12 @@ img {
    image-orientation: center;
 }
 
+@media (max-width: 880px) {
+  .card img {
+    width: 50%;
+  }
+}
+
 h2 img {
    border-radius: 0%;
    width: 20px;
