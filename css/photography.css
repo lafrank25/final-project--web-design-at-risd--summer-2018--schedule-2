@@ -35,6 +35,7 @@ p {
 #container {
    margin: auto;
    width: 80%;
+   padding-bottom: 70px;
 }
 
 nav ul {
@@ -81,10 +82,6 @@ footer {
    position: fixed;
    bottom: 0;
    width: 100vw;
-}
-
-.last-item {
-   padding-bottom: 80px;
 }
 
 @media (max-width: 1500px) {
