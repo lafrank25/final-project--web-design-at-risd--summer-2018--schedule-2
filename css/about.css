@@ -1,12 +1,12 @@
 header {
    position: absolute;
+   padding: 60px;
 }
 
  img {
    border-radius: 50%;
    width: 400px;
-   padding: 50px;
-   padding-top: 60px;
+   padding: 120px;
    display: block;
    margin-left: auto;
    image-orientation: center;
