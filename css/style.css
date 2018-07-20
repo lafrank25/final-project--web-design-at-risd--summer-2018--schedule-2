@@ -10,7 +10,6 @@ body {
 header {
    height: 120px;
    background-color: white;
-
 }
 
 header h1 {
@@ -67,8 +66,8 @@ nav ul li a {
    display: block;
    color: black;
    text-decoration: none;
-   padding-left: 75px;
-   padding-right: 75px;
+   padding-left: 50px;
+   padding-right: 50px;
    padding-bottom: 20px;
    font-family: 'Karla', sans-serif;
 }
