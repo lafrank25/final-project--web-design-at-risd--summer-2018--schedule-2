@@ -29,18 +29,6 @@ p {
    width: 35%;
 }
 
-@media (max-width: 1500px) {
-  .card img {
-    display: inline;
-  }
-}
-
-@media (max-width: 880px) {
-  .card img {
-    width: 100%;
-  }
-}
-
 nav ul {
    padding: 20px 0 4px;
    background-color: #FFE3DB;
@@ -87,4 +75,29 @@ footer {
 
 .last-item {
    padding-bottom: 80px;
+}
+
+
+@media (max-width: 1500px) {
+  .card img {
+    display: inline;
+  }
+}
+
+@media (max-width: 1500px) {
+   header {
+    position: absolute;
+  }
+}
+
+@media (max-width: 800px) {
+  .card img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 800px) {
+   header {
+    position: static;
+  }
 }
