@@ -52,12 +52,14 @@ p {
 }
 
 nav ul {
-   padding: 20px 0 4px;
+   padding: 14px 0 0;
    background-color: #FFE3DB;
    list-style: none;
    text-align: center;
    font-size: 1.5rem;
    width: 100%;
+   display: flex;
+   justify-content: space-around;
 }
 
 nav ul li {
