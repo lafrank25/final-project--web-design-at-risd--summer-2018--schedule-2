@@ -106,6 +106,20 @@ footer {
   }
 }
 
+@media (max-width: 880px){
+   footer {
+      /* height: 30vh; */
+      bottom:0px;
+   }
+
+   nav ul {
+      display: inline-block;
+      text-align: center;
+      background-color: #FFE3DB;
+      font-size: 1.2rem;
+   }
+}
+
 @media (max-width: 800px) {
    header {
     position: static;

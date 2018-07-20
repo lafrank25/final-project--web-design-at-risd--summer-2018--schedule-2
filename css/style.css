@@ -95,3 +95,17 @@ footer {
    bottom: 0;
    width: 100vw;
 }
+
+@media (max-width: 880px){
+   footer {
+      /* height: 30vh; */
+      bottom:0px;
+   }
+
+   nav ul {
+      display: inline-block;
+      text-align: center;
+      background-color: #fff;
+      font-size: 1.2rem;
+   }
+}
